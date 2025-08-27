@@ -5,4 +5,4 @@ ProsConsSum is a Python library for automatically summarizing product reviews in
 ## Installation
 
 ```bash
-pip install .
+pip install fastapi uvicorn torch transformers tqdm
