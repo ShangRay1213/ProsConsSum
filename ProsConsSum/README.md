@@ -70,7 +70,7 @@ Cons: slow service, overpriced pastries
 ProsConsSum/
 │── models/                  # Pretrained models (download from Google Drive)
 │── ProsConsSum/             # Core library
-│── main.py                  # Example entry point
-│── requirements.txt         # Dependencies
+│   |── __init__.py
+│   │── model.py             
 │── README.md                # Project documentation
 ```
