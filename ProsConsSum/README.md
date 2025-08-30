@@ -27,10 +27,11 @@ Due to GitHub file size limits, trained models are hosted on Google Drive:
 
 🔗 [Download models here](https://drive.google.com/drive/folders/1m_RmfyLH_TFJnMvna5dyw2GBbOfXwvFS?usp=sharing)
 
+Remember to change the model path in the model.py !!!
+
 After downloading, place the models inside the `ProsConsSum/models/` directory:
 
 
-Remember to change the model path in the model.py !!!
 ```
 ProsConsSum/
 │── models/
