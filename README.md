@@ -4,8 +4,6 @@
 This helps businesses and researchers quickly extract insights from customer feedback.
 
 ---
-## My Code is here
-🔗 [datafiles and codes are here](https://github.com/ShangRay1213/my-t5-model)
 
 ## 🚀 Installation
 
@@ -79,3 +77,6 @@ ProsConsSum/
 │   │── model.py             
 │── README.md                # Project documentation
 ```
+
+## My Code is here
+🔗 [Datafiles and codes are here](https://github.com/ShangRay1213/my-t5-model)
